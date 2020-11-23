@@ -41,6 +41,7 @@ By default, the application is configured for local deployment, for web hosting 
 To work on web hosting, according to the documentation, after deployment, a local configuration file mydb.cfg was created with settings for connecting to the database.
 
 
+------------------------------
 
 You can change the log4j path in src/main/resources/log4j.propertie file: log4j.appender.file.File="path".
 
@@ -58,3 +59,6 @@ To login as an administrator use
 To login as a moderator use
 - login - moderator
 - password - 1111 
+
+The credentials of the moderator, administrator and unauthorized user are shown in the picture
+<https://github.com/margarita-sk/StudyJava/blob/master/credentials.pnghttps://github.com/margarita-sk/StudyJava/blob/master/credentials.png>
