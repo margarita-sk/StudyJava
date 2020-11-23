@@ -61,4 +61,4 @@ To login as a moderator use
 - password - 1111 
 
 The credentials of the moderator, administrator and unauthorized user are shown in the picture
-<https://github.com/margarita-sk/StudyJava/blob/master/credentials.pnghttps://github.com/margarita-sk/StudyJava/blob/master/credentials.png>
+![credentials](https://github.com/margarita-sk/StudyJava/blob/master/credentials.pnghttps://github.com/margarita-sk/StudyJava/blob/master/credentials.png)
