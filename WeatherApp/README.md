@@ -1,6 +1,6 @@
 # Тhe test task for the development of a web service which gives the outfit advises according to the weather in the particular location(city)
 
-The service must implement 2 ednpointa:
+The service must implement 2 ednpoints:
 1. Saving information about the temperature interval with the appropriate selection of clothing.
 2. Getting information about the proposed set of things for a specific city.
 
